@@ -1,5 +1,7 @@
 👋 Hi there! I'm Safwan Islam
+
 🚀 Masters Student | Aspiring Data Scientist & Software Engineer
+
 🎓 Current Role:
 
 Master of Science in Computer Science at Northeastern University
