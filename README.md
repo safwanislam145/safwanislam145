@@ -20,8 +20,7 @@
 - 🛢️ SQL
 
 **Technologies & Frameworks:**  
-- 🔄 REST APIs  
-- ☁️ Cloud Computing (AWS - Certified Developer in progress!)  
+- 🔄 REST APIs   
 - 📊 Data Analysis & Visualization  
 
 **Tools:**  
