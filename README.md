@@ -51,7 +51,7 @@
 
 🔗 [LinkedIn]([https://www.linkedin.com/in/safwanislam](https://www.linkedin.com/in/safwan-islam-b229a513b/))  
 📬 Reach me: islam.saf@northeastern.edu 
-🚀 Check out my projects here on GitHub or at **[My Portfolio](https://github.com/safwanislam145)**  
+🚀 Check out my projects here on GitHub or at **[My Portfolio](https://github.com/safwanislam145?tab=repositories)**  
 
 👀 Always open to collaborations or a quick chat over coffee! ☕
 
