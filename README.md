@@ -33,7 +33,6 @@
 ## 💡 About Me  
 
 - 🧑‍🎓 **Graduate Researcher:** Working on predictive models for stock markets and AR/VR innovations.  
-- 🏆 Award-winning Financial Analyst (1st place at Quinnipiac GAME Forum XIII).  
 - 🤖 Building the future of intelligent systems with a focus on software development and machine learning.  
 - 📈 On a journey to merge **data-driven insights** with innovative **software solutions**.
 
